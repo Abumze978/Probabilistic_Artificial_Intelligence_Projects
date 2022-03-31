@@ -1,5 +1,5 @@
 # ProbabilisticArtificialIntelligenceProjects
- This repository contains the four programming tasks handed in for the class Probabilistic Artificial Intelligence at ETH Zurich during the fall semester of 2021
+ This repository contains the four programming tasks handed in for the class Probabilistic Artificial Intelligence at ETH Zurich during the fall semester of 2021. **Our code is contained in the file named "solution.py".**
 
 ## Task 1: Gaussian Process Regression
 
